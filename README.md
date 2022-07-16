@@ -16,8 +16,7 @@
 ## **I have been working with the following tools and languages**.
 
 ## **Front-End Technologies:**
-<img  width="50"  height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-<img  width="50"  height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+<img  width="50"  height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"><img  width="50"  height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
 <img  width="40"  height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt="Javascipt">
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="65"  height="40" >
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg"  width="60"  height="40"  alt="jquery"> 
@@ -26,8 +25,7 @@
           
 ### *HTML, CSS, Javascript, Bootstrap, Jquery, ReactJs, typescript.*
 ## **Backend Technologies:**
-<img width="50"  height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img width="50"  height="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img width="50"  height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><img width="50"  height="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img width="50"  height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img width="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 <img width="50"  height="50" src="src/restApi.svg" />
@@ -46,16 +44,14 @@
 ###  *Jest* 
 
 ## **DevOps:**
-<img width="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-<img width="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img width="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /><img width="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img width="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 <img width="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
 
 ###  *Git, Github, Firebase, heroku .*
 
 ## **IDE:**
-<img width="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-<img width="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+<img width="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /><img width="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 
 ###  *Visual studio code, pycharm .*       
           
