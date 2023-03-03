@@ -8,8 +8,6 @@
 
 ## 🎯 Goals 
 - Getting an entry-level/internship/junior developer Job to exercise my knowledge, challenge me through a new problem, and, foremost teach me something new.
-- Deploying react app to heroku.
-- Using new features in existing front-end projects.
 - More commit and repositories in GitHub. 
 
 
@@ -25,13 +23,14 @@
           
 ### *HTML, CSS, Javascript, Bootstrap, Jquery, ReactJs, typescript.*
 ## **Backend Technologies:**
-<img width="50"  height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><img width="50"  height="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img width="50"  height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><img  width="50"  height="45"  src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
+<img  width="50"  height="45"  src="https://upload.wikimedia.org/wikiversity/de/e/e1/Java-Logo.svg"><img width="50"  height="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img width="50"  height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img width="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 <img width="50"  height="50" src="src/restApi.svg" />
 <img width="50"  height="50" src="src/getpostman.svg" />
 
-###  *C, Python, Nodejs, express js, REST API, Postman .*
+###  *C, C++, Java, Python, Nodejs, express js, REST API, Postman .*
 
 ## **Database:**
 <img width="60"  height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
