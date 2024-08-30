@@ -59,6 +59,10 @@
 <img width="60" height="60" src="src/Notepad.svg">
 
 ### *notepad++*
+
+## Other technical skills:  
+### Power Apps | Power Automate | Microsoft Forms | Excel | PowerPoint | Power BI
+
           
           
           
