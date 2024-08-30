@@ -60,8 +60,8 @@
 
 ### *notepad++*
 
-## *Other technical skills:*  
-### **Power Apps | Power Automate | Microsoft Forms | Excel | PowerPoint | Power BI**
+## **Other technical skills:**  
+### *Power Apps | Power Automate | Microsoft Forms | Excel | PowerPoint | Power BI*
 
     
           
