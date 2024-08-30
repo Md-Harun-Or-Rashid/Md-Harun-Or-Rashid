@@ -13,7 +13,7 @@
 
 ## **I have been working with the following tools and languages**.
 
-## **Front-End Technologies:**
+## **Front-end technologies:**
 <img  width="50"  height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"><img  width="50"  height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
 <img  width="40"  height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt="Javascipt">
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="65"  height="40" >
@@ -22,7 +22,7 @@
 <img width="50"  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
           
 ### *HTML, CSS, Javascript, Bootstrap, Jquery, ReactJs, typescript.*
-## **Backend Technologies:**
+## **Porgramming languages and backend technologies:**
 <img width="50"  height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><img  width="50"  height="45"  src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
 <img  width="50"  height="45"  src="https://upload.wikimedia.org/wikiversity/de/e/e1/Java-Logo.svg"><img width="50"  height="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img width="50"  height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -60,10 +60,10 @@
 
 ### *notepad++*
 
-## Other technical skills:  
-### Power Apps | Power Automate | Microsoft Forms | Excel | PowerPoint | Power BI
+## *Other technical skills:*  
+### **Power Apps | Power Automate | Microsoft Forms | Excel | PowerPoint | Power BI**
 
-          
+    
           
           
           
