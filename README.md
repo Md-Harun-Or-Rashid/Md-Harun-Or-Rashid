@@ -20,8 +20,9 @@
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg"  width="60"  height="40"  alt="jquery"> 
 <img  width="50"  height="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img width="50"  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img width="50"  height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
           
-### *HTML, CSS, Javascript, Bootstrap, Jquery, ReactJs, typescript.*
+### *HTML, CSS, Javascript, Bootstrap, Jquery, ReactJs, typescript, React Native.*
 ## **Porgramming languages and backend technologies:**
 <img width="50"  height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><img  width="50"  height="45"  src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
 <img  width="50"  height="45"  src="https://upload.wikimedia.org/wikiversity/de/e/e1/Java-Logo.svg"><img width="50"  height="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
@@ -50,9 +51,9 @@
 ###  *Git, Github, Firebase, heroku .*
 
 ## **IDE:**
-<img width="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /><img width="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+<img width="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /><img width="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /><img width="50"  height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" />
 
-###  *Visual studio code, pycharm .*       
+###  *Visual studio code, pycharm, Android Studio .*       
           
 ## **Code editors:**
 
