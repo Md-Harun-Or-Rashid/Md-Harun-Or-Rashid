@@ -6,12 +6,11 @@
 - There is always a portion of my free time for exploring and learning new technologies.
 - I believe in continuous learning and learning technologies nourish my mind.
 
-## 🎯 Goals 
+## 🎯 Goal
 - Getting an entry-level/internship/junior developer Job to exercise my knowledge, challenge me through a new problem, and, foremost teach me something new.
-- More commit and repositories in GitHub. 
 
 
-## **I have been working with the following tools and languages**.
+## **I have been working with the following tools and technologies**.
 
 ## **Front-end technologies:**
 <img  width="50"  height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"><img  width="50"  height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
@@ -61,8 +60,13 @@
 
 ### *notepad++*
 
-## **Other technical skills:**  
-### *Power Apps | Power Automate | Microsoft Forms | Excel | PowerPoint | Power BI*
+## **Microsoft Power Platform** 
+
+### *Power Apps | Power Automate | Power BI*
+
+## **Microsoft 365**
+
+### *Teams | Word | Excel | PowerPoin | Outlook | OneNote | OneDrive | Clipchamp | Microsoft Forms | Microsoft Lists | Microsoft Loop*                 
 
     
           
