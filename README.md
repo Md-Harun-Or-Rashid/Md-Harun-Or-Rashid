@@ -6,10 +6,6 @@
 - There is always a portion of my free time for exploring and learning new technologies.
 - I believe in continuous learning and learning technologies nourish my mind.
 
-## 🎯 Goal
-- Getting an entry-level/internship/junior developer Job to exercise my knowledge, challenge me through a new problem, and, foremost teach me something new.
-
-
 ## **I have been working with the following tools and technologies**.
 
 ## **Front-end technologies:**
